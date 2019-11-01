@@ -1,0 +1,109 @@
+[panda]
+_id: 282
+birthday: 2013/6/25
+birthplace: 35
+children: 283
+en.name: Mitarashi
+en.nicknames: none
+en.othernames: none
+gender: f
+jp.name: みたらし
+jp.nicknames: none
+jp.othernames: none
+language.order: jp, en
+litter: 285
+location.1: 35, 2013/6/25
+location.2: 60, 2016/4/25
+photo.1: https://www.instagram.com/p/Bist6DUlwxs/media/?size=m
+photo.1.author: love__mitarashi
+photo.1.link: https://www.instagram.com/love__mitarashi/
+photo.1.tags: profile
+photo.2: https://www.instagram.com/p/BlcQVZ1lQK7/media/?size=m
+photo.2.author: love__mitarashi
+photo.2.link: https://www.instagram.com/love__mitarashi/
+photo.2.tags: apple time
+photo.3: https://www.instagram.com/p/BiyZF1Kl6dD/media/?size=m
+photo.3.author: love__mitarashi
+photo.3.link: https://www.instagram.com/love__mitarashi/
+photo.3.tags: bamboo, tail
+photo.4: https://www.instagram.com/p/BhxSvyjFRdR/media/?size=m
+photo.4.author: miis_98
+photo.4.link: https://www.instagram.com/miis_98/
+photo.4.tags: smile, tree
+photo.5: https://www.instagram.com/p/BicXf76lTrZ/media/?size=m
+photo.5.author: love__mitarashi
+photo.5.link: https://www.instagram.com/love__mitarashi/
+photo.5.tags: smile
+photo.6: https://www.instagram.com/p/BpoZ6RLFBXs/media/?size=m
+photo.6.author: love__mitarashi
+photo.6.link: https://www.instagram.com/love__mitarashi/
+photo.6.tags: smile, tongue
+photo.7: https://www.instagram.com/p/BsVU60DlyC7/media/?size=m
+photo.7.author: love__mitarashi
+photo.7.link: https://www.instagram.com/love__mitarashi/
+photo.8: https://www.instagram.com/p/Bsfx2AKF0Oh/media/?size=m
+photo.8.author: love__mitarashi
+photo.8.link: https://www.instagram.com/love__mitarashi/
+photo.8.tags: bamboo
+photo.9: https://www.instagram.com/p/BxM0BUbFE_P/media/?size=m
+photo.9.author: love__mitarashi
+photo.9.link: https://www.instagram.com/love__mitarashi/
+photo.9.tags: bamboo, smile
+photo.10: https://www.instagram.com/p/BxRO-ifl4NO/media/?size=m
+photo.10.author: love__mitarashi
+photo.10.link: https://www.instagram.com/love__mitarashi/
+photo.10.tags: sleeping
+photo.11: https://www.instagram.com/p/BykU-HpBpid/media/?size=m
+photo.11.author: love__mitarashi
+photo.11.link: https://www.instagram.com/love__mitarashi/
+photo.11.tags: smile, tree
+photo.12: https://www.instagram.com/p/By2eQMEhpz4/media/?size=m
+photo.12.author: love__mitarashi
+photo.12.link: https://www.instagram.com/love__mitarashi/
+photo.12.tags: bridge, portrait, tongue
+photo.13: https://www.instagram.com/p/B0aL4UPhTqP/media/?size=m
+photo.13.author: love__mitarashi
+photo.13.link: https://www.instagram.com/love__mitarashi/
+photo.13.tags: bamboo, paws
+photo.14: https://www.instagram.com/p/B0lHPiDhkJk/media/?size=m
+photo.14.author: love__mitarashi
+photo.14.link: https://www.instagram.com/love__mitarashi/
+photo.14.tags: laying down, tongue
+photo.15: https://www.instagram.com/p/B0qbbG2hDEM/media/?size=m
+photo.15.author: love__mitarashi
+photo.15.link: https://www.instagram.com/love__mitarashi/
+photo.15.tags: portrait, smile, tongue, tail
+photo.16: https://www.instagram.com/p/B0sI3SwhqF6/media/?size=m
+photo.16.author: love__mitarashi
+photo.16.link: https://www.instagram.com/love__mitarashi/
+photo.16.tags: paws, portrait, tail
+photo.17: https://www.instagram.com/p/B1bH5FPBOIE/media/?size=m
+photo.17.author: love__mitarashi
+photo.17.link: https://www.instagram.com/love__mitarashi/
+photo.17.tags: bridge, paws
+photo.18: https://www.instagram.com/p/B1dbQ_-BIuL/media/?size=m
+photo.18.author: love__mitarashi
+photo.18.link: https://www.instagram.com/love__mitarashi/
+photo.18.tags: bamboo, tail
+photo.19: https://www.instagram.com/p/B2O166tBVlH/media/?size=m
+photo.19.author: love__mitarashi
+photo.19.link: https://www.instagram.com/love__mitarashi/
+photo.19.tags: air tasting, bamboo, mofumofu, tail, tongue
+photo.20: https://www.instagram.com/p/B2veMjoBuYi/media/?size=m
+photo.20.author: love__mitarashi
+photo.20.link: https://www.instagram.com/love__mitarashi/
+photo.20.tags: bamboo, laying down, upside-down
+photo.21: https://www.instagram.com/p/B3Mo7R9Bo9Q/media/?size=m
+photo.21.author: love__mitarashi
+photo.21.link: https://www.instagram.com/love__mitarashi/
+photo.21.tags: bamboo, portrait
+photo.22: https://www.instagram.com/p/B3o0X_Wh2QO/media/?size=m
+photo.22.author: love__mitarashi
+photo.22.link: https://www.instagram.com/love__mitarashi/
+photo.22.tags: portrait, smile, tail, tongue
+photo.23: https://www.instagram.com/p/B3wtjrThFvj/media/?size=m
+photo.23.author: love__mitarashi
+photo.23.link: https://www.instagram.com/love__mitarashi/
+photo.23.tags: paws, portrait, praying, standing
+species: 2
+zoo: 60

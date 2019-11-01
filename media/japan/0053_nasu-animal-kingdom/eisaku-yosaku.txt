@@ -1,0 +1,105 @@
+[media]
+_id: media.53.eisaku-yosaku
+panda.tags: 344, 345
+photo.1: https://www.instagram.com/p/Bz7TrSUh4gS/media/?size=m
+photo.1.author: grskus_tk
+photo.1.link: https://www.instagram.com/grskus_tk/
+photo.1.tags: apple time, brothers, twins
+photo.1.tags.344.location: 255, 175
+photo.1.tags.345.location: 105, 145
+photo.2: https://www.instagram.com/p/B0Lqg_Khm-E/media/?size=m
+photo.2.author: resapan.suki
+photo.2.link: https://www.instagram.com/resapan.suki/
+photo.2.tags: brothers, smile, twins
+photo.2.tags.344.location: 175, 115
+photo.2.tags.345.location: 190, 260
+photo.3: https://www.instagram.com/p/B0Lsh1ABe2s/media/?size=m
+photo.3.author: panda.daisuki
+photo.3.link: https://www.instagram.com/panda.daisuki/
+photo.3.tags: brothers, paws, twins
+photo.3.tags.344.location: 155, 180
+photo.3.tags.345.location: 60, 200
+photo.4: https://www.instagram.com/p/B0URmhQBWS4/media/?size=m
+photo.4.author: panda.daisuki
+photo.4.link: https://www.instagram.com/panda.daisuki/
+photo.4.tags: brothers, paws, twins
+photo.4.tags.344.location: 160, 145
+photo.4.tags.345.location: 255, 145
+photo.5: https://www.instagram.com/p/B0nUieZB8bL/media/?size=m
+photo.5.author: hamiiiii831
+photo.5.link: https://www.instagram.com/hamiiiii831/
+photo.5.tags: brothers, paws, smile
+photo.5.tags.344.location: 70, 150
+photo.5.tags.345.location: 225, 155
+photo.6: https://www.instagram.com/p/B1Csurqh37E/media/?size=m
+photo.6.author: miis_98
+photo.6.link: https://www.instagram.com/miis_98/
+photo.6.tags: brothers, smile, tongue, twins
+photo.6.tags.344.location: 220, 145
+photo.6.tags.345.location: 100, 100
+photo.7: https://www.instagram.com/p/B1BA3USBmmv/media/?size=m
+photo.7.author: ifumoto88
+photo.7.link: https://www.instagram.com/ifumoto88/
+photo.7.tags: brothers, lunch time, twins
+photo.7.tags.344.location: 205, 120
+photo.7.tags.345.location: 105, 70
+photo.8: https://www.instagram.com/p/B1JQb7KBS9_/media/?size=m
+photo.8.author: panda.daisuki
+photo.8.link: https://www.instagram.com/panda.daisuki/
+photo.8.tags: brothers, paws, twins
+photo.8.tags.344.location: 130, 180
+photo.8.tags.345.location: 230, 100
+photo.9: https://www.instagram.com/p/B1GdIGBhLJG/media/?size=m
+photo.9.author: panda.daisuki
+photo.9.link: https://www.instagram.com/panda.daisuki/
+photo.9.tags: brothers, paws, twins
+photo.9.tags.344.location: 100, 180
+photo.9.tags.345.location: 215, 115
+photo.10: https://www.instagram.com/p/B1PZaUkBpN8/media/?size=m
+photo.10.author: panda.daisuki
+photo.10.link: https://www.instagram.com/panda.daisuki/
+photo.10.tags: apple time, brothers, smile, twins
+photo.10.tags.344.location: 125, 160
+photo.10.tags.345.location: 140, 110
+photo.11: https://www.instagram.com/p/B1UAeZVBUGj/media/?size=m
+photo.11.author: sasapan34
+photo.11.link: https://www.instagram.com/sasapan34/
+photo.11.tags: brothers, paws, smile, twins
+photo.11.tags.344.location: 180, 85
+photo.11.tags.345.location: 90, 70
+photo.12: https://www.instagram.com/p/B1iD66PB-Pm/media/?size=m
+photo.12.author: panda.daisuki
+photo.12.link: https://www.instagram.com/panda.daisuki/
+photo.12.tags: apple time, brothers, twins
+photo.12.tags.344.location: 195, 160
+photo.12.tags.345.location: 110, 165
+photo.13: https://www.instagram.com/p/B1kNWa9hp6a/media/?size=m
+photo.13.author: rie_panda55
+photo.13.link: https://www.instagram.com/rie_panda55/
+photo.13.tags: brothers, twins
+photo.13.tags.344.location: 250, 95
+photo.13.tags.345.location: 70, 100
+photo.14: https://www.instagram.com/p/B1uiuc2ApHs/media/?size=m
+photo.14.author: sunnylettuce_fields
+photo.14.link: https://www.instagram.com/sunnylettuce_fields/
+photo.14.tags: brothers, smile, twins
+photo.14.tags.344.location: 195, 125
+photo.14.tags.345.location: 245, 180
+photo.15: https://www.instagram.com/p/B2GgG15Bffs/media/?size=m
+photo.15.author: spla_calamari
+photo.15.link: https://www.instagram.com/spla_calamari/
+photo.15.tags: brothers, laying down, smile, twins
+photo.15.tags.344.location: 195, 225
+photo.15.tags.345.location: 110, 105
+photo.16: https://www.instagram.com/p/B2kGFxxBMpU/media/?size=m
+photo.16.author: hamiiiii831
+photo.16.link: https://www.instagram.com/hamiiiii831/
+photo.16.tags: apple time, brothers, smile, twins
+photo.16.tags.344.location: 235, 130
+photo.16.tags.345.location: 85, 155
+photo.17: https://www.instagram.com/p/B3Ottw1BA9v/media/?size=m
+photo.17.author: panda.daisuki
+photo.17.link: https://www.instagram.com/panda.daisuki/
+photo.17.tags: brothers, smile, twins
+photo.17.tags.344.location: 220, 205
+photo.17.tags.345.location: 140, 195

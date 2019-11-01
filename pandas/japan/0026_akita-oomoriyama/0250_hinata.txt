@@ -1,0 +1,84 @@
+[panda]
+_id: 250
+birthday: 2018/7/12
+birthplace: 26
+children: none
+en.name: Hinata
+en.nicknames: none
+en.othernames: none
+gender: m
+jp.name: ヒナタ
+jp.nicknames: none
+jp.othernames: none
+language.order: jp, en
+litter: 251
+photo.1: https://www.instagram.com/p/BprO40Xlkug/media/?size=m
+photo.1.author: mifko55
+photo.1.link: https://www.instagram.com/mifko55/
+photo.1.tags: baby, dish, portrait, tongue
+photo.2: https://www.instagram.com/p/Bpb7bcwFa7Z/media/?size=m
+photo.2.author: fetorus_mami
+photo.2.link: https://www.instagram.com/fetorus_mami/
+photo.2.tags: apple time, baby, portrait
+photo.3: https://www.instagram.com/p/Bpv3pfelxpx/media/?size=m
+photo.3.author: monmon_redpanda
+photo.3.link: https://www.instagram.com/monmon_redpanda/
+photo.3.tags: baby, portrait, standing
+photo.4: https://www.instagram.com/p/Bpb69b6FcDL/media/?size=m
+photo.4.author: fetorus_mami
+photo.4.link: https://www.instagram.com/fetorus_mami/
+photo.4.tags: baby
+photo.5: https://www.instagram.com/p/Bp5J6Y-FyEo/media/?size=m
+photo.5.author: kipekaila
+photo.5.link: https://www.instagram.com/kipekaila/
+photo.5.tags: baby, portrait
+photo.6: https://www.instagram.com/p/BrFiwMWl5BS/media/?size=m
+photo.6.author: mifko55
+photo.6.link: https://www.instagram.com/mifko55/
+photo.6.tags: baby, portrait, tail
+photo.7: https://www.instagram.com/p/BtXyOa2lNSk/media/?size=m
+photo.7.author: mifko55
+photo.7.link: https://www.instagram.com/mifko55/
+photo.7.tags: portrait, techitechi, wet
+photo.8: https://www.instagram.com/p/BtCQRncFpq3/media/?size=m
+photo.8.author: mifko55
+photo.8.link: https://www.instagram.com/mifko55/
+photo.8.tags: bamboo, portrait, tongue
+photo.9: https://www.instagram.com/p/ByP7hM7hdpL/media/?size=m
+photo.9.author: mifko55
+photo.9.link: https://www.instagram.com/mifko55/
+photo.9.tags: portrait
+photo.10: https://www.instagram.com/p/ByRCEMAhhR7/media/?size=m
+photo.10.author: craig_craig_craig
+photo.10.link: https://www.instagram.com/craig_craig_craig/
+photo.10.tags: baby, mofumofu, tail
+photo.11: https://www.instagram.com/p/BzttoJpB658/media/?size=m
+photo.11.author: miis_98
+photo.11.link: https://www.instagram.com/miis_98/
+photo.11.tags: portrait, smile
+photo.12: https://www.instagram.com/p/B0Pfr2qhXZu/media/?size=m
+photo.12.author: miis_98
+photo.12.link: https://www.instagram.com/miis_98/
+photo.12.tags: apple time, bamboo, portrait, smile
+photo.13: https://www.instagram.com/p/B1KmbWdBna8/media/?size=m
+photo.13.author: sasapan34
+photo.13.link: https://www.instagram.com/sasapan34/
+photo.13.tags: apple time, paws, smile
+photo.14: https://www.instagram.com/p/B1hz2jdha1x/media/?size=m
+photo.14.author: sasapan34
+photo.14.link: https://www.instagram.com/sasapan34/
+photo.14.tags: apple time, paws
+photo.15: https://www.instagram.com/p/B1srUjcBWi8/media/?size=m
+photo.15.author: kotata_513
+photo.15.link: https://www.instagram.com/kotata_513/
+photo.15.tags: smile
+photo.16: https://www.instagram.com/p/B2MILxvhFLB/media/?size=m
+photo.16.author: grskus_tk
+photo.16.link: https://www.instagram.com/grskus_tk/
+photo.16.tags: lunch time, portrait, smile
+photo.17: https://www.instagram.com/p/B2b5csVBcLC/media/?size=m
+photo.17.author: grskus_tk
+photo.17.link: https://www.instagram.com/grskus_tk/
+photo.17.tags: apple time, bamboo, paws, portrait
+species: 2
+zoo: 26

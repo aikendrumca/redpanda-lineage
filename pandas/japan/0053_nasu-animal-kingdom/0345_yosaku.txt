@@ -1,0 +1,96 @@
+[panda]
+_id: 345
+birthday: 2018/7/15
+birthplace: 53
+children: none
+en.name: Yosaku
+en.nicknames: none
+en.othernames: none
+gender: m
+jp.name: 与作
+jp.nicknames: none
+jp.othernames: ヨサク
+language.order: jp, en
+litter: 344
+photo.1: https://www.instagram.com/p/BpHIOUmF6n9/media/?size=m
+photo.1.author: daniele.tokyo
+photo.1.link: https://www.instagram.com/daniele.tokyo/
+photo.1.tags: baby, bamboo
+photo.2: https://www.instagram.com/p/BpvVLdXFa-4/media/?size=m
+photo.2.author: miis_98
+photo.2.link: https://www.instagram.com/miis_98/
+photo.2.tags: baby
+photo.3: https://www.instagram.com/p/BpLCDXWBhmm/media/?size=m
+photo.3.author: resapanlove
+photo.3.link: https://www.instagram.com/resapanlove/
+photo.3.tags: baby
+photo.4: https://www.instagram.com/p/BwS0Fg-FOTW/media/?size=m
+photo.4.author: yakko____
+photo.4.link: https://www.instagram.com/yakko____/
+photo.4.tags: techitechi
+photo.5: https://www.instagram.com/p/BxKadlsli9u/media/?size=m
+photo.5.author: perie1027vivi
+photo.5.link: https://www.instagram.com/perie1027vivi/
+photo.5.tags: mofumofu, techitechi
+photo.6: https://www.instagram.com/p/Bz4Dx6MBHpz/media/?size=m
+photo.6.author: grskus_tk
+photo.6.link: https://www.instagram.com/grskus_tk/
+photo.6.tags: bridge, laying down
+photo.7: https://www.instagram.com/p/B0I18jKhX1k/media/?size=m
+photo.7.author: ifumoto88
+photo.7.link: https://www.instagram.com/ifumoto88/
+photo.7.tags: smile
+photo.8: https://www.instagram.com/p/B0Qgy2zBsyY/media/?size=m
+photo.8.author: craig_craig_craig
+photo.8.link: https://www.instagram.com/craig_craig_craig/
+photo.8.tags: paws, portrait, smile, tongue
+photo.9: https://www.instagram.com/p/B0o6i_uBZyQ/media/?size=m
+photo.9.author: resapan.suki
+photo.9.link: https://www.instagram.com/resapan.suki/
+photo.9.tags: laying down, portrait, smile
+photo.10: https://www.instagram.com/p/B0rgeReB1OH/media/?size=m
+photo.10.author: miis_98
+photo.10.link: https://www.instagram.com/miis_98/
+photo.10.tags: bridge, paws, portrait, smile
+photo.11: https://www.instagram.com/p/B0uuBlLhBIV/media/?size=m
+photo.11.author: craig_craig_craig
+photo.11.link: https://www.instagram.com/craig_craig_craig/
+photo.11.tags: paws, portrait, smile
+photo.12: https://www.instagram.com/p/B1BXgSrhVet/media/?size=m
+photo.12.author: panda.daisuki
+photo.12.link: https://www.instagram.com/panda.daisuki/
+photo.12.tags: laying down, paws, portrait
+photo.13: https://www.instagram.com/p/B1BY6qah1q6/media/?size=m
+photo.13.author: ifumoto88
+photo.13.link: https://www.instagram.com/ifumoto88/
+photo.13.tags: carry, portrait, smile
+photo.14: https://www.instagram.com/p/B1Y5vGbBgur/media/?size=m
+photo.14.author: panda.daisuki
+photo.14.link: https://www.instagram.com/panda.daisuki/
+photo.14.tags: laying down, paws, portrait, smile, tongue
+photo.15: https://www.instagram.com/p/B1XTP16BvUo/media/?size=m
+photo.15.author: rie_panda55
+photo.15.link: https://www.instagram.com/rie_panda55/
+photo.15.tags: bridge, paws, portrait, smile
+photo.16: https://www.instagram.com/p/B1jCgkXARc7/media/?size=m
+photo.16.author: sunnylettuce_fields
+photo.16.link: https://www.instagram.com/sunnylettuce_fields/
+photo.16.tags: laying down, mofumofu, paws, smile
+photo.17: https://www.instagram.com/p/B2ESCOkBDKl/media/?size=m
+photo.17.author: mifko55
+photo.17.link: https://www.instagram.com/mifko55/
+photo.17.tags: portrait, profile
+photo.18: https://www.instagram.com/p/B2hwW5jBPDz/media/?size=m
+photo.18.author: panda.daisuki
+photo.18.link: https://www.instagram.com/panda.daisuki/
+photo.18.tags: laying down, paws, portrait, tongue
+photo.19: https://www.instagram.com/p/B3Uce5BhNRv/media/?size=m
+photo.19.author: hamiiiii831
+photo.19.link: https://www.instagram.com/hamiiiii831/
+photo.19.tags: bamboo, portrait, wink
+photo.20: https://www.instagram.com/p/B3xApxKBgpz/media/?size=m
+photo.20.author: zoowfreedom299
+photo.20.link: https://www.instagram.com/zoowfreedom299/
+photo.20.tags: smile, tongue
+species: 2
+zoo: 53

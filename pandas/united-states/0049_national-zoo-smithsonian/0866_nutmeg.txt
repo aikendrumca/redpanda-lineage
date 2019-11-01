@@ -1,0 +1,23 @@
+[panda]
+_id: 866
+birthday: 2013/6/6
+birthplace: 141
+children: 859, 860, 867
+en.name: Nutmeg
+en.nicknames: none
+en.othernames: none
+gender: f
+jp.name: ナツメグ
+jp.nicknames: none
+jp.othernames: none
+language.order: en, jp
+litter: none
+location.1: 141, 2013/6/6
+location.2: 114, 2014/9/30
+location.3: 49, 2017/12/19
+photo.1: https://www.instagram.com/p/nbTVHUomVa/media/?size=m
+photo.1.author: eriezoo
+photo.1.link: https://www.instagram.com/eriezoo/
+photo.1.tags: portrait, profile, white face
+species: 1
+zoo: 49

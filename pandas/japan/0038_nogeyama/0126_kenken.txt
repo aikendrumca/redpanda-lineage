@@ -1,0 +1,204 @@
+[panda]
+_id: 126
+birthday: 2006/7/18
+birthplace: 6
+children: 377, 180, 144, 130, 69
+en.name: Ken-Ken
+en.nicknames: none
+en.othernames: Kenken, Freckle-kun
+gender: m
+jp.name: ケンケン
+jp.nicknames: none
+jp.othernames: 賢健
+language.order: jp, en
+litter: none
+location.1: 6, 2006/7/18
+location.2: 38, 2013/1/9
+photo.1: https://www.instagram.com/p/Bh0IhpjFSc6/media/?size=m
+photo.1.author: miis_98
+photo.1.link: https://www.instagram.com/miis_98/
+photo.1.tags: portrait, profile, tree
+photo.2: https://www.instagram.com/p/BeCc1Rclcic/media/?size=m
+photo.2.author: tabechum
+photo.2.link: https://www.instagram.com/tabechum/
+photo.2.tags: apple time, home, keeper, portrait
+photo.3: https://www.instagram.com/p/BUuB304hYcp/media/?size=m
+photo.3.author: miis_98
+photo.3.link: https://www.instagram.com/miis_98/
+photo.3.tags: apple time, lips, portrait
+photo.4: https://www.instagram.com/p/Bgvmg3dBdKb/media/?size=m
+photo.4.author: mifko55
+photo.4.link: https://www.instagram.com/mifko55/
+photo.4.tags: tree
+photo.5: https://www.instagram.com/p/Bhh2LAFlP9L/media/?size=m
+photo.5.author: miis_98
+photo.5.link: https://www.instagram.com/miis_98/
+photo.5.tags: portrait, smile
+photo.6: https://www.instagram.com/p/BQTugMphdiF/media/?size=m
+photo.6.author: yuigraphy
+photo.6.link: https://www.instagram.com/yuigraphy/
+photo.7: https://www.instagram.com/p/BoqOQnmFOXm/media/?size=m
+photo.7.author: miis_98
+photo.7.link: https://www.instagram.com/miis_98/
+photo.7.tags: portrait, tree
+photo.8: https://www.instagram.com/p/Bo6j4tCBnA4/media/?size=m
+photo.8.author: miis_98
+photo.8.link: https://www.instagram.com/miis_98/
+photo.8.tags: smile, tail
+photo.9: https://www.instagram.com/p/BqPUge-FCYU/media/?size=m
+photo.9.author: itsuak
+photo.9.link: https://www.instagram.com/itsuak/
+photo.9.tags: autumn, grooming, paws, portrait, tree
+photo.10: https://www.instagram.com/p/BqSrVIaH8v9/media/?size=m
+photo.10.author: minatomirai215
+photo.10.link: https://www.instagram.com/minatomirai215/
+photo.10.tags: grooming, laying down, portrait, tree
+photo.11: https://www.instagram.com/p/BqUCyx8FgDF/media/?size=m
+photo.11.author: itsuak
+photo.11.link: https://www.instagram.com/itsuak/
+photo.11.tags: portrait, tree
+photo.12: https://www.instagram.com/p/BqV_ttAFxl2/media/?size=m
+photo.12.author: minatomirai215
+photo.12.link: https://www.instagram.com/minatomirai215/
+photo.12.tags: climb, portrait, tree
+photo.13: https://www.instagram.com/p/BqmtUVyF_fw/media/?size=m
+photo.13.author: mofu_pan
+photo.13.link: https://www.instagram.com/mofu_pan/
+photo.13.tags: portrait, tree
+photo.14: https://www.instagram.com/p/Bq3MER_FM2L/media/?size=m
+photo.14.author: lespan33
+photo.14.link: https://www.instagram.com/lespan33/
+photo.14.tags: portrait
+photo.15: https://www.instagram.com/p/BrZvTablZpI/media/?size=m
+photo.15.author: framereim
+photo.15.link: https://www.instagram.com/framereim/
+photo.15.tags: bamboo
+photo.16: https://www.instagram.com/p/BYvMCLdl0Fr/media/?size=m
+photo.16.author: hanamaru_redpanda
+photo.16.link: https://www.instagram.com/hanamaru_redpanda/
+photo.16.tags: paws, portrait, smile, tongue, tree
+photo.17: https://www.instagram.com/p/BsqN_lRFkzE/media/?size=m
+photo.17.author: perie1027vivi
+photo.17.link: https://www.instagram.com/perie1027vivi/
+photo.17.tags: laying down, mofumofu, portrait, tree
+photo.18: https://www.instagram.com/p/Bssaq23FlIK/media/?size=m
+photo.18.author: kipekaila
+photo.18.link: https://www.instagram.com/kipekaila/
+photo.18.tags: portrait, smile, tongue
+photo.19: https://www.instagram.com/p/BswINAZFR6b/media/?size=m
+photo.19.author: kipekaila
+photo.19.link: https://www.instagram.com/kipekaila/
+photo.19.tags: bamboo, lips
+photo.20: https://www.instagram.com/p/Bs4_FwtF61J/media/?size=m
+photo.20.author: kipekaila
+photo.20.link: https://www.instagram.com/kipekaila/
+photo.20.tags: lips, portrait, tongue
+photo.21: https://www.instagram.com/p/Bs9zoVEF4EC/media/?size=m
+photo.21.author: minatomirai215
+photo.21.link: https://www.instagram.com/minatomirai215/
+photo.21.tags: grooming, portrait, tail, tree
+photo.22: https://www.instagram.com/p/Bt_Mn6lFm6l/media/?size=m
+photo.22.author: perie1027vivi
+photo.22.link: https://www.instagram.com/perie1027vivi/
+photo.22.tags: bamboo, paws, portrait, tongue
+photo.23: https://www.instagram.com/p/BuXQA2HF9yk/media/?size=m
+photo.23.author: miis_98
+photo.23.link: https://www.instagram.com/miis_98/
+photo.23.tags: grooming, portrait, tree
+photo.24: https://www.instagram.com/p/BvHK8tElHjA/media/?size=m
+photo.24.author: redpan22
+photo.24.link: https://www.instagram.com/redpan22/
+photo.24.tags: bamboo, paws, portrait
+photo.25: https://www.instagram.com/p/Bv06D9hFEJy/media/?size=m
+photo.25.author: miis_98
+photo.25.link: https://www.instagram.com/miis_98/
+photo.25.tags: mofumofu, portrait, tail, tree
+photo.26: https://www.instagram.com/p/BwCIFr3lnIR/media/?size=m
+photo.26.author: minatomirai215
+photo.26.link: https://www.instagram.com/minatomirai215/
+photo.26.tags: mofumofu, smile, tree
+photo.27: https://www.instagram.com/p/BxJzxZzl7Ju/media/?size=m
+photo.27.author: pantasanzoo1
+photo.27.link: https://www.instagram.com/pantasanzoo1/
+photo.27.tags: tree
+photo.28: https://www.instagram.com/p/BxO_HOnlCZt/media/?size=m
+photo.28.author: pantasanzoo1
+photo.28.link: https://www.instagram.com/pantasanzoo1/
+photo.28.tags: tree
+photo.29: https://www.instagram.com/p/Bxy4TxFlAz5/media/?size=m
+photo.29.author: miis_98
+photo.29.link: https://www.instagram.com/miis_98/
+photo.29.tags: apple time, keeper, mofumofu, portrait, tail
+photo.30: https://www.instagram.com/p/By-QbKZhbV7/media/?size=m
+photo.30.author: miis_98
+photo.30.link: https://www.instagram.com/miis_98/
+photo.30.tags: paws, portrait, tongue
+photo.31: https://www.instagram.com/p/BzDdmePBhCJ/media/?size=m
+photo.31.author: chocopan102
+photo.31.link: https://www.instagram.com/chocopan102/
+photo.31.tags: laying down, paws, smile
+photo.32: https://www.instagram.com/p/BzNWEoDB-ux/media/?size=m
+photo.32.author: pantasanzoo1
+photo.32.link: https://www.instagram.com/pantasanzoo1/
+photo.33: https://www.instagram.com/p/B0D4CWSBK0E/media/?size=m
+photo.33.author: minatomirai215
+photo.33.link: https://www.instagram.com/minatomirai215/
+photo.33.tags: mofumofu, tail, tongue
+photo.34: https://www.instagram.com/p/B0CJmZFBCqS/media/?size=m
+photo.34.author: pantasanzoo1
+photo.34.link: https://www.instagram.com/pantasanzoo1/
+photo.34.tags: mofumofu, tail, tree, sleeping
+photo.35: https://www.instagram.com/p/B0DSzPABMLk/media/?size=m
+photo.35.author: miis_98
+photo.35.link: https://www.instagram.com/miis_98/
+photo.35.tags: mofumofu, portrait, smile, tree
+photo.36: https://www.instagram.com/p/B0MomsHARtc/media/?size=m
+photo.36.author: miis_98
+photo.36.link: https://www.instagram.com/miis_98/
+photo.36.tags: apple time, bridge, keeper, paws, smile, tail
+photo.37: https://www.instagram.com/p/B0R0YwJBqdK/media/?size=m
+photo.37.author: kipekaila
+photo.37.link: https://www.instagram.com/kipekaila/
+photo.37.tags: portrait, smile, tongue
+photo.38: https://www.instagram.com/p/B1HqHkeBaYA/media/?size=m
+photo.38.author: rie_panda55
+photo.38.link: https://www.instagram.com/rie_panda55/
+photo.38.tags: laying down, night, paws, portrait
+photo.39: https://www.instagram.com/p/B1w6P36hooS/media/?size=m
+photo.39.author: ssc6105
+photo.39.link: https://www.instagram.com/ssc6105/
+photo.39.tags: grooming, paws, tree
+photo.40: https://www.instagram.com/p/B2poGfdhH6q/media/?size=m
+photo.40.author: kipekaila
+photo.40.link: https://www.instagram.com/kipekaila/
+photo.40.tags: portrait, smile
+photo.41: https://www.instagram.com/p/B2wCzDvhIxm/media/?size=m
+photo.41.author: minatomirai215
+photo.41.link: https://www.instagram.com/minatomirai215/
+photo.41.tags: portrait, smile, tongue, tree
+photo.42: https://www.instagram.com/p/B20j9kzhiYs/media/?size=m
+photo.42.author: minatomirai215
+photo.42.link: https://www.instagram.com/minatomirai215/
+photo.42.tags: paws, portrait
+photo.43: https://www.instagram.com/p/B2_RVT3Bmx_/media/?size=m
+photo.43.author: ssc6105
+photo.43.link: https://www.instagram.com/ssc6105/
+photo.43.tags: air tasting, tongue, tree
+photo.44: https://www.instagram.com/p/B3GkJxahWXZ/media/?size=m
+photo.44.author: minatomirai215
+photo.44.link: https://www.instagram.com/minatomirai215/
+photo.44.tags: apple time, keeper, smile, tree
+photo.45: https://www.instagram.com/p/B3SyH-gBBUS/media/?size=m
+photo.45.author: miis_98
+photo.45.link: https://www.instagram.com/miis_98/
+photo.45.tags: paws, portrait, smile, tongue
+photo.46: https://www.instagram.com/p/B4LworZBSIM/media/?size=m
+photo.46.author: pantasanzoo1
+photo.46.link: https://www.instagram.com/pantasanzoo1/
+photo.46.tags: mofumofu, paws
+photo.47: https://www.instagram.com/p/B4RY8QNhgQu/media/?size=m
+photo.47.author: pantasanzoo1
+photo.47.link: https://www.instagram.com/pantasanzoo1/
+photo.47.tags: mofumofu, paws, smile
+species: 2
+zoo: 38

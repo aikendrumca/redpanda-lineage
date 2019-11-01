@@ -1,0 +1,76 @@
+[panda]
+_id: 963
+birthday: 2019/7/5
+birthplace: 24
+children: none
+en.name: Aka-chan
+en.nicknames: none
+en.othernames: none
+gender: unknown
+jp.name: 赤ちゃん
+jp.nicknames: none
+jp.othernames: none
+language.order: jp, en
+litter: 962
+photo.1: https://www.instagram.com/p/B2OmZL_hugq/media/?size=m
+photo.1.author: taka__3428
+photo.1.link: https://www.instagram.com/taka__3428/
+photo.1.tags: baby, smile, tail
+photo.2: https://www.instagram.com/p/B2tpFa1hTu1/media/?size=m
+photo.2.author: taka__3428
+photo.2.link: https://www.instagram.com/taka__3428/
+photo.2.tags: baby, portrait
+photo.3: https://www.instagram.com/p/B2y1VSkBGlV/media/?size=m
+photo.3.author: taka__3428
+photo.3.link: https://www.instagram.com/taka__3428/
+photo.3.tags: baby, peek, paws
+photo.4: https://www.instagram.com/p/B2rIPZhhQdL/media/?size=m
+photo.4.author: taka__3428
+photo.4.link: https://www.instagram.com/taka__3428/
+photo.4.tags: baby, paws, portrait
+photo.5: https://www.instagram.com/p/B2rRTrMh1U6/media/?size=m
+photo.5.author: monmon_redpanda
+photo.5.link: https://www.instagram.com/monmon_redpanda/
+photo.5.tags: baby, peek, portrait
+photo.6: https://www.instagram.com/p/B21ZlXahXQi/media/?size=m
+photo.6.author: taka__3428
+photo.6.link: https://www.instagram.com/taka__3428/
+photo.6.tags: baby, paws, peek, portrait
+photo.7: https://www.instagram.com/p/B3UU8lrB6ux/media/?size=m
+photo.7.author: taka__3428
+photo.7.link: https://www.instagram.com/taka__3428/
+photo.7.tags: baby
+photo.8: https://www.instagram.com/p/B3ra8ZNB91V/media/?size=m
+photo.8.author: taka__3428
+photo.8.link: https://www.instagram.com/taka__3428/
+photo.8.tags: baby, laying down
+photo.9: https://www.instagram.com/p/B3t30EuhVXB/media/?size=m
+photo.9.author: taka__3428
+photo.9.link: https://www.instagram.com/taka__3428/
+photo.9.tags: baby, toys
+photo.10: https://www.instagram.com/p/B32Hrw5h0Ej/media/?size=m
+photo.10.author: taka__3428
+photo.10.link: https://www.instagram.com/taka__3428/
+photo.10.tags: baby
+photo.11: https://www.instagram.com/p/B34Q5e9B-ZV/media/?size=m
+photo.11.author: taka__3428
+photo.11.link: https://www.instagram.com/taka__3428/
+photo.11.tags: baby, laying down, paws, toys
+photo.12: https://www.instagram.com/p/B4GT7K4BuL4/media/?size=m
+photo.12.author: taka__3428
+photo.12.link: https://www.instagram.com/taka__3428/
+photo.12.tags: baby, laying down, portrait, upside-down, window
+photo.13: https://www.instagram.com/p/B4Jl-MbBc_d/media/?size=m
+photo.13.author: taka__3428
+photo.13.link: https://www.instagram.com/taka__3428/
+photo.13.tags: baby, bite
+photo.14: https://www.instagram.com/p/B4LZoMZhbQ6/media/?size=m
+photo.14.author: taka__3428
+photo.14.link: https://www.instagram.com/taka__3428/
+photo.14.tags: baby, mofumofu, portrait, profile, tail
+photo.15: https://www.instagram.com/p/B4PdPEZB0Ew/media/?size=m
+photo.15.author: taka__3428
+photo.15.link: https://www.instagram.com/taka__3428/
+photo.15.tags: baby, pumpkin
+species: 2
+zoo: 24

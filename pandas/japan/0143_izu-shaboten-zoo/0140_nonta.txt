@@ -1,0 +1,111 @@
+[panda]
+_id: 140
+birthday: 2012/6/27
+birthplace: 6
+children: none
+en.name: Nonta
+en.nicknames: none
+en.othernames: none
+gender: m
+jp.name: のんた
+jp.nicknames: none
+jp.othernames: none
+language.order: jp, en
+litter: none
+location.1: 6, 2012/6/27
+location.2: 15, 2015/1/30
+location.3: 143, 2019/6/20
+photo.1: https://www.instagram.com/p/BoGSkkXB9wn/media/?size=m
+photo.1.author: resapanlove
+photo.1.link: https://www.instagram.com/resapanlove/
+photo.1.tags: paws, portrait, smile
+photo.2: https://www.instagram.com/p/BN32CVOBgWh/media/?size=m
+photo.2.author: love__mitarashi
+photo.2.link: https://www.instagram.com/love__mitarashi/
+photo.2.tags: bridge, portrait
+photo.3: https://www.instagram.com/p/BqjN3RHFp8Q/media/?size=m
+photo.3.author: ifumoto88
+photo.3.link: https://www.instagram.com/ifumoto88/
+photo.3.tags: bamboo, portrait, profile, tongue
+photo.4: https://www.instagram.com/p/Bw9VSJ7lbUL/media/?size=m
+photo.4.author: colette.jp
+photo.4.link: https://www.instagram.com/colette.jp/
+photo.4.tags: bridge, paws, portrait, tongue
+photo.5: https://www.instagram.com/p/Bx7DuBiAhgt/media/?size=m
+photo.5.author: kanokodori
+photo.5.link: https://www.instagram.com/kanokodori/
+photo.5.tags: bridge, paws, shedding
+photo.6: https://www.instagram.com/p/Bu6NuHgA3Is/media/?size=m
+photo.6.author: kanokodori
+photo.6.link: https://www.instagram.com/kanokodori/
+photo.6.tags: portrait
+photo.7: https://www.instagram.com/p/BnLt-lzF-We/media/?size=m
+photo.7.author: itsuak
+photo.7.link: https://www.instagram.com/itsuak/
+photo.7.tags: paws, portrait
+photo.8: https://www.instagram.com/p/BmGpCNZlA5q/media/?size=m
+photo.8.author: itsuak
+photo.8.link: https://www.instagram.com/itsuak/
+photo.8.tags: bridge, lips, portrait, upside-down
+photo.9: https://www.instagram.com/p/BmprcQplQxf/media/?size=m
+photo.9.author: kotata_513
+photo.9.link: https://www.instagram.com/kotata_513/
+photo.9.tags: apple time, smile
+photo.10: https://www.instagram.com/p/BoBxi2Ill-J/media/?size=m
+photo.10.author: makimaru18
+photo.10.link: https://www.instagram.com/makimaru18/
+photo.10.tags: bridge, itchy, portrait, tongue
+photo.11: https://www.instagram.com/p/BmhDNV-l7TE/media/?size=m
+photo.11.author: redpanda_nippon_takashi
+photo.11.link: https://www.instagram.com/redpanda_nippon_takashi/
+photo.11.tags: bridge, paws
+photo.12: https://www.instagram.com/p/BNRGCVUFxaX/media/?size=m
+photo.12.author: i.satosato
+photo.12.link: https://www.instagram.com/i.satosato/
+photo.12.tags: mofumofu, portrait
+photo.13: https://www.instagram.com/p/BzMlJf0hbNb/media/?size=m
+photo.13.author: makimaru18
+photo.13.link: https://www.instagram.com/makimaru18/
+photo.13.tags: portrait, tongue
+photo.14: https://www.instagram.com/p/BzWcxN0BPpW/media/?size=m
+photo.14.author: itsuak
+photo.14.link: https://www.instagram.com/itsuak/
+photo.14.tags: portrait, smile, tongue
+photo.15: https://www.instagram.com/p/BzUJIh7BhFP/media/?size=m
+photo.15.author: love__mitarashi
+photo.15.link: https://www.instagram.com/love__mitarashi/
+photo.15.tags: bridge, blink, paws, tongue
+photo.16: https://www.instagram.com/p/BzUxnvQh0f9/media/?size=m
+photo.16.author: makimaru18
+photo.16.link: https://www.instagram.com/makimaru18/
+photo.16.tags: apple time, paws, portrait, standing
+photo.17: https://www.instagram.com/p/BzePRbwBDsB/media/?size=m
+photo.17.author: itsuak
+photo.17.link: https://www.instagram.com/itsuak/
+photo.17.tags: bridge, grooming, laying down, paws, tongue
+photo.18: https://www.instagram.com/p/BzdhBq5h8Cb/media/?size=m
+photo.18.author: itsuak
+photo.18.link: https://www.instagram.com/itsuak/
+photo.18.tags: laying down, paws, smile
+photo.19: https://www.instagram.com/p/BzaDUMPhm4-/media/?size=m
+photo.19.author: itsuak
+photo.19.link: https://www.instagram.com/itsuak/
+photo.19.tags: bridge, paws, portrait
+photo.20: https://www.instagram.com/p/BzfnD8pBT0l/media/?size=m
+photo.20.author: itsuak
+photo.20.link: https://www.instagram.com/itsuak/
+photo.20.tags: bridge, portrait, tongue
+photo.21: https://www.instagram.com/p/B25mOKEh-9O/media/?size=m
+photo.21.author: miis_98
+photo.21.link: https://www.instagram.com/miis_98/
+photo.21.tags: apple time, portrait, tongue
+photo.22: https://www.instagram.com/p/B3KBQOKhnN5/media/?size=m
+photo.22.author: resapan.suki
+photo.22.link: https://www.instagram.com/resapan.suki/
+photo.22.tags: portrait, smile, tongue
+photo.23: https://www.instagram.com/p/B3d7DxYB7we/media/?size=m
+photo.23.author: hamiiiii831
+photo.23.link: https://www.instagram.com/hamiiiii831/
+photo.23.tags: apple time, portrait
+species: 2
+zoo: 143

@@ -1,0 +1,64 @@
+[panda]
+_id: 957
+birthday: 2019/7/2
+birthplace: 9
+children: none
+en.name: Aka-chan
+en.nicknames: Kabuki
+en.othernames: none
+gender: m
+jp.name: 赤ちゃん
+jp.nicknames: 歌舞伎
+jp.othernames: none
+language.order: jp, en
+litter: 958
+photo.1: https://www.instagram.com/p/BlrQLTXlJqN/media/?size=m
+photo.1.author: saitamazoo
+photo.1.link: https://www.instagram.com/saitamazoo/
+photo.1.tags: baby, mofumofu, paws, sleeping, white face
+photo.2: https://www.instagram.com/p/BndA8Bellv9/media/?size=m
+photo.2.author: saitamazoo
+photo.2.link: https://www.instagram.com/saitamazoo/
+photo.2.tags: baby, paws, tail, white face
+photo.3: https://www.instagram.com/p/BnsJWzTlF1d/media/?size=m
+photo.3.author: saitamazoo
+photo.3.link: https://www.instagram.com/saitamazoo/
+photo.3.tags: baby, paws, smile, white face
+photo.4: https://www.instagram.com/p/Boni6kMFxUM/media/?size=m
+photo.4.author: saitamazoo
+photo.4.link: https://www.instagram.com/saitamazoo/
+photo.4.tags: baby, laying down, paws, tail, white face
+photo.5: https://www.instagram.com/p/Bpfsg4mF3Ar/media/?size=m
+photo.5.author: saitamazoo
+photo.5.link: https://www.instagram.com/saitamazoo/
+photo.5.tags: baby, laying down, paws, tail, upside-down, white face
+photo.6: https://www.instagram.com/p/B32G-nChzad/media/?size=m
+photo.6.author: fetorus_mami
+photo.6.link: https://www.instagram.com/fetorus_mami/
+photo.6.tags: baby, mofumofu
+photo.7: https://www.instagram.com/p/B4GupnaBLOv/media/?size=m
+photo.7.author: panda.daisuki
+photo.7.link: https://www.instagram.com/panda.daisuki/
+photo.7.tags: baby, mofumofu, portrait, tail
+photo.8: https://www.instagram.com/p/B4HoSVZhzoo/media/?size=m
+photo.8.author: craig_craig_craig
+photo.8.link: https://www.instagram.com/craig_craig_craig/
+photo.8.tags: baby, mofumofu, poop
+photo.9: https://www.instagram.com/p/B4GoQTWhKxF/media/?size=m
+photo.9.author: ifumoto88
+photo.9.link: https://www.instagram.com/ifumoto88/
+photo.9.tags: baby, laying down, mofumofu, portrait
+photo.10: https://www.instagram.com/p/B4FABJlhklX/media/?size=m
+photo.10.author: ifumoto88
+photo.10.link: https://www.instagram.com/ifumoto88/
+photo.10.tags: baby, bamboo, paws, portrait
+photo.11: https://www.instagram.com/p/B4E6KqFB0bk/media/?size=m
+photo.11.author: ifumoto88
+photo.11.link: https://www.instagram.com/ifumoto88/
+photo.11.tags: baby, climb, paws, portrait
+photo.12: https://www.instagram.com/p/B4MiOsDBLgH/media/?size=m
+photo.12.author: resapan.suki
+photo.12.link: https://www.instagram.com/resapan.suki/
+photo.12.tags: laying down, portrait, profile
+species: 2
+zoo: 9

@@ -1,0 +1,197 @@
+[panda]
+_id: 294
+birthday: 2016/6/22
+birthplace: 64
+children: none
+en.name: Asunaro
+en.nicknames: none
+en.othernames: none
+gender: f
+jp.name: アスナロ
+jp.nicknames: none
+jp.othernames: none
+language.order: jp, en
+litter: 295
+location.1: 64, 2016/6/22
+location.2: 11, 2019/6/5
+photo.1: https://www.instagram.com/p/BkhmOZslTvq/media/?size=m
+photo.1.author: hanamaru_redpanda
+photo.1.link: https://www.instagram.com/hanamaru_redpanda/
+photo.1.tags: profile, smile
+photo.2: https://www.instagram.com/p/Bd2LvXYlGKn/media/?size=m
+photo.2.author: hanamaru_redpanda
+photo.2.link: https://www.instagram.com/hanamaru_redpanda/
+photo.3: https://www.instagram.com/p/Bw6B4GdlCEJ/media/?size=m
+photo.3.author: craig_craig_craig
+photo.3.link: https://www.instagram.com/craig_craig_craig/
+photo.3.tags: bamboo
+photo.4: https://www.instagram.com/p/BzftOYpBAMZ/media/?size=m
+photo.4.author: takahisakaneuchi
+photo.4.link: https://www.instagram.com/takahisakaneuchi/
+photo.4.tags: paws, portrait
+photo.5: https://www.instagram.com/p/BzMHN43Hfpu/media/?size=m
+photo.5.author: an920000
+photo.5.link: https://www.instagram.com/an920000/
+photo.5.tags: bamboo, home
+photo.6: https://www.instagram.com/p/Bz6dNvhBDGY/media/?size=m
+photo.6.author: sasapan34
+photo.6.link: https://www.instagram.com/sasapan34/
+photo.6.tags: standing, tree
+photo.7: https://www.instagram.com/p/B0YJLhYhEOW/media/?size=m
+photo.7.author: tama67photo
+photo.7.link: https://www.instagram.com/tama67photo/
+photo.7.tags: smile
+photo.8: https://www.instagram.com/p/B0YIfKvBH1O/media/?size=m
+photo.8.author: tama67photo
+photo.8.link: https://www.instagram.com/tama67photo/
+photo.8.tags: portrait, tree, yawn
+photo.9: https://www.instagram.com/p/B0dWaYjhaBc/media/?size=m
+photo.9.author: tama67photo
+photo.9.link: https://www.instagram.com/tama67photo/
+photo.9.tags: bamboo, house, portrait, standing
+photo.10: https://www.instagram.com/p/B0dWtqzBXzO/media/?size=m
+photo.10.author: tama67photo
+photo.10.link: https://www.instagram.com/tama67photo/
+photo.10.tags: surprise, tail
+photo.11: https://www.instagram.com/p/B0dW7vPhVH9/media/?size=m
+photo.11.author: tama67photo
+photo.11.link: https://www.instagram.com/tama67photo/
+photo.11.tags: climb, portrait, smile
+photo.12: https://www.instagram.com/p/B0va0XEBmWY/media/?size=m
+photo.12.author: tama67photo
+photo.12.link: https://www.instagram.com/tama67photo/
+photo.12.tags: surprise
+photo.13: https://www.instagram.com/p/B0vboWPhQTg/media/?size=m
+photo.13.author: tama67photo
+photo.13.link: https://www.instagram.com/tama67photo/
+photo.13.tags: standing, tail
+photo.14: https://www.instagram.com/p/B0vaTohBlbT/media/?size=m
+photo.14.author: tama67photo
+photo.14.link: https://www.instagram.com/tama67photo/
+photo.14.tags: portrait, smile
+photo.15: https://www.instagram.com/p/B02Xdx3BIv-/media/?size=m
+photo.15.author: tama67photo
+photo.15.link: https://www.instagram.com/tama67photo/
+photo.15.tags: surprise
+photo.16: https://www.instagram.com/p/B1BWkGihs7i/media/?size=m
+photo.16.author: tama67photo
+photo.16.link: https://www.instagram.com/tama67photo/
+photo.16.tags: surprise
+photo.17: https://www.instagram.com/p/B1BWxsXBBBn/media/?size=m
+photo.17.author: tama67photo
+photo.17.link: https://www.instagram.com/tama67photo/
+photo.17.tags: portrait
+photo.18: https://www.instagram.com/p/B1D6XD0hk8G/media/?size=m
+photo.18.author: tama67photo
+photo.18.link: https://www.instagram.com/tama67photo/
+photo.18.tags: bridge, paws, portrait
+photo.19: https://www.instagram.com/p/B1D5uEqBYdF/media/?size=m
+photo.19.author: tama67photo
+photo.19.link: https://www.instagram.com/tama67photo/
+photo.19.tags: paws, portrait, standing, tail
+photo.20: https://www.instagram.com/p/B1Gelkyh8yJ/media/?size=m
+photo.20.author: tama67photo
+photo.20.link: https://www.instagram.com/tama67photo/
+photo.20.tags: bridge, peek, portrait
+photo.21: https://www.instagram.com/p/B1ONylbhFub/media/?size=m
+photo.21.author: tama67photo
+photo.21.link: https://www.instagram.com/tama67photo/
+photo.21.tags: portrait
+photo.22: https://www.instagram.com/p/B1WyNm-BjsN/media/?size=m
+photo.22.author: minatomirai215
+photo.22.link: https://www.instagram.com/minatomirai215/
+photo.22.tags: bridge,  portrait, smile
+photo.23: https://www.instagram.com/p/B1ZCXFABGRR/media/?size=m
+photo.23.author: minatomirai215
+photo.23.link: https://www.instagram.com/minatomirai215/
+photo.23.tags: lips, tree
+photo.24: https://www.instagram.com/p/B1gUk9LhPk5/media/?size=m
+photo.24.author: minatomirai215
+photo.24.link: https://www.instagram.com/minatomirai215/
+photo.24.tags: portrait
+photo.25: https://www.instagram.com/p/B2nghNgh8FB/media/?size=m
+photo.25.author: leonard_redmof
+photo.25.link: https://www.instagram.com/leonard_redmof/
+photo.25.tags: apple time, home, paws, portrait, standing
+photo.26: https://www.instagram.com/p/B2oFxlSByKO/media/?size=m
+photo.26.author: leonard_redmof
+photo.26.link: https://www.instagram.com/leonard_redmof/
+photo.26.tags: home, portrait
+photo.27: https://www.instagram.com/p/B3J_jtFhcdH/media/?size=m
+photo.27.author: leonard_redmof
+photo.27.link: https://www.instagram.com/leonard_redmof/
+photo.27.tags: bridge, mofumofu, portrait, tail
+photo.28: https://www.instagram.com/p/B3Y7_6wBWUC/media/?size=m
+photo.28.author: monmon_redpanda
+photo.28.link: https://www.instagram.com/monmon_redpanda/
+photo.28.tags: autumn, portrait, tree
+photo.29: https://www.instagram.com/p/B3diLZnhiiO/media/?size=m
+photo.29.author: zoowfreedom299
+photo.29.link: https://www.instagram.com/zoowfreedom299/
+photo.29.tags: tree, smile
+photo.30: https://www.instagram.com/p/B3Rf2yeh_8E/media/?size=m
+photo.30.author: an920000
+photo.30.link: https://www.instagram.com/an920000/
+photo.30.tags: portrait, tree
+photo.31: https://www.instagram.com/p/B38GZHMBlWO/media/?size=m
+photo.31.author: nakacchi_desu
+photo.31.link: https://www.instagram.com/nakacchi_desu/
+photo.31.tags: autumn, peek, tree
+photo.32: https://www.instagram.com/p/B34hpYQBduD/media/?size=m
+photo.32.author: craig_craig_craig
+photo.32.link: https://www.instagram.com/craig_craig_craig/
+photo.32.tags: autumn, bridge, portrait
+photo.33: https://www.instagram.com/p/B39URpGB5tD/media/?size=m
+photo.33.author: tama67photo
+photo.33.link: https://www.instagram.com/tama67photo/
+photo.33.tags: autumn, portrait, smile, tree
+photo.34: https://www.instagram.com/p/B39UlWDBOE8/media/?size=m
+photo.34.author: tama67photo
+photo.34.link: https://www.instagram.com/tama67photo/
+photo.34.tags: autumn, portrait, tree
+photo.35: https://www.instagram.com/p/B4ALPeVgKP4/media/?size=m
+photo.35.author: cattail.sapporo
+photo.35.link: https://www.instagram.com/cattail.sapporo/
+photo.35.tags: autumn, portrait, smile, tongue
+photo.36: https://www.instagram.com/p/B4CqAavBY2u/media/?size=m
+photo.36.author: framereim
+photo.36.link: https://www.instagram.com/framereim/
+photo.36.tags: autumn, bridge, portrait, smile
+photo.37: https://www.instagram.com/p/B4DgkXvAXPs/media/?size=m
+photo.37.author: cattail.sapporo
+photo.37.link: https://www.instagram.com/cattail.sapporo/
+photo.37.tags: autumn, bamboo, home, paws, portrait, standing
+photo.38: https://www.instagram.com/p/B4HmV3HB2e8/media/?size=m
+photo.38.author: tama67photo
+photo.38.link: https://www.instagram.com/tama67photo/
+photo.38.tags: autumn, bridge, portrait
+photo.39: https://www.instagram.com/p/B4Hl8hzhumD/media/?size=m
+photo.39.author: tama67photo
+photo.39.link: https://www.instagram.com/tama67photo/
+photo.39.tags: autumn, portrait, smile, tree
+photo.40: https://www.instagram.com/p/B4KSSWghQeK/media/?size=m
+photo.40.author: tama67photo
+photo.40.link: https://www.instagram.com/tama67photo/
+photo.40.tags: portrait, tail
+photo.41: https://www.instagram.com/p/B4M0XdKBLDI/media/?size=m
+photo.41.author: tama67photo
+photo.41.link: https://www.instagram.com/tama67photo/
+photo.41.tags: autumn, portrait, tree
+photo.42: https://www.instagram.com/p/B4M1Q7JBMcZ/media/?size=m
+photo.42.author: tama67photo
+photo.42.link: https://www.instagram.com/tama67photo/
+photo.42.tags: autumn, bridge, portrait
+photo.43: https://www.instagram.com/p/B4M09lGBAfe/media/?size=m
+photo.43.author: tama67photo
+photo.43.link: https://www.instagram.com/tama67photo/
+photo.43.tags: autumn, bridge, carry, portrait
+photo.44: https://www.instagram.com/p/B4N9yT9Br9w/media/?size=m
+photo.44.author: craig_craig_craig
+photo.44.link: https://www.instagram.com/craig_craig_craig/
+photo.44.tags: autumn, bridge, portrait
+photo.45: https://www.instagram.com/p/B4PZJ3VBU43/media/?size=m
+photo.45.author: tama67photo
+photo.45.link: https://www.instagram.com/tama67photo/
+photo.45.tags: apple time, bamboo, home, paws, portrait, standing
+species: 2
+zoo: 11

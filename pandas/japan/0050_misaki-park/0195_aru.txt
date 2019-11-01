@@ -1,0 +1,187 @@
+[panda]
+_id: 195
+birthday: 2013/8/15
+birthplace: 42
+children: 194
+en.name: Aru
+en.nicknames: Pandazilla
+en.othernames: Aru, Love, Al
+gender: m
+jp.name: アル
+jp.nicknames: none
+jp.othernames: none
+language.order: jp, en
+litter: 201
+location.1: 42, 2013/8/15
+location.2: 50, 2015/12/1
+photo.1: https://www.instagram.com/p/BjDz5OdFlHL/media/?size=m
+photo.1.author: framereim
+photo.1.link: https://www.instagram.com/framereim/
+photo.1.tags: paws, standing
+photo.2: https://www.instagram.com/p/Bj6JWSzlw4b/media/?size=m
+photo.2.author: framereim
+photo.2.link: https://www.instagram.com/framereim/
+photo.2.tags: smile
+photo.3: https://www.instagram.com/p/BldHdZOFYY8/media/?size=m
+photo.3.author: framereim
+photo.3.link: https://www.instagram.com/framereim/
+photo.3.tags: itchy, paws, portrait
+photo.4: https://www.instagram.com/p/Bk6YWXglhvq/media/?size=m
+photo.4.author: framereim
+photo.4.link: https://www.instagram.com/framereim/
+photo.4.tags: apple time, bamboo
+photo.5: https://www.instagram.com/p/Bkunc6rF3QE/media/?size=m
+photo.5.author: framereim
+photo.5.link: https://www.instagram.com/framereim/
+photo.5.tags: bear worm, portrait
+photo.6: https://www.instagram.com/p/BoVBjpiFq_H/media/?size=m
+photo.6.author: framereim
+photo.6.link: https://www.instagram.com/framereim/
+photo.6.tags: bear worm, smile
+photo.7: https://www.instagram.com/p/BoYiXTulLyX/media/?size=m
+photo.7.author: yossi929
+photo.7.link: https://www.instagram.com/yossi929/
+photo.7.tags: smile
+photo.8: https://www.instagram.com/p/BoiWx7ilIvq/media/?size=m
+photo.8.author: makimaru18
+photo.8.link: https://www.instagram.com/makimaru18/
+photo.8.tags: apple time, keeper, portrait
+photo.9: https://www.instagram.com/p/BotWbcYldiM/media/?size=m
+photo.9.author: framereim
+photo.9.link: https://www.instagram.com/framereim/
+photo.9.tags: keeper, standing
+photo.10: https://www.instagram.com/p/BpZUrGzlBrt/media/?size=m
+photo.10.author: kinkinkin0826
+photo.10.link: https://www.instagram.com/kinkinkin0826/
+photo.10.tags: portrait
+photo.11: https://www.instagram.com/p/BphQrIOFg2U/media/?size=m
+photo.11.author: nakacchi_desu
+photo.11.link: https://www.instagram.com/nakacchi_desu/
+photo.11.tags: pumpkin
+photo.12: https://www.instagram.com/p/BqAJXYqF1f9/media/?size=m
+photo.12.author: makimaru18
+photo.12.link: https://www.instagram.com/makimaru18/
+photo.12.tags: portrait
+photo.13: https://www.instagram.com/p/BqPHAIEltyj/media/?size=m
+photo.13.author: framereim
+photo.13.link: https://www.instagram.com/framereim/
+photo.14: https://www.instagram.com/p/BqWPWIblxrq/media/?size=m
+photo.14.author: dmover_a
+photo.14.link: https://www.instagram.com/dmover_a/
+photo.15: https://www.instagram.com/p/BqoOIiNFh3k/media/?size=m
+photo.15.author: framereim
+photo.15.link: https://www.instagram.com/framereim/
+photo.15.tags: portrait, standing
+photo.16: https://www.instagram.com/p/BrSpyDPlLDJ/media/?size=m
+photo.16.author: makimaru18
+photo.16.link: https://www.instagram.com/makimaru18/
+photo.16.tags: portrait, tongue
+photo.17: https://www.instagram.com/p/Brq7FD1FTjQ/media/?size=m
+photo.17.author: redpanda_nippon_takashi
+photo.17.link: https://www.instagram.com/redpanda_nippon_takashi/
+photo.17.tags: portrait
+photo.18: https://www.instagram.com/p/Br9KHdFFejF/media/?size=m
+photo.18.author: makimaru18
+photo.18.link: https://www.instagram.com/makimaru18/
+photo.18.tags: portrait, standing
+photo.19: https://www.instagram.com/p/BsXVmkJltqQ/media/?size=m
+photo.19.author: makimaru18
+photo.19.link: https://www.instagram.com/makimaru18/
+photo.19.tags: portrait, standing
+photo.20: https://www.instagram.com/p/BsXnC-kldHD/media/?size=m
+photo.20.author: framereim
+photo.20.link: https://www.instagram.com/framereim/
+photo.21: https://www.instagram.com/p/BsfX2Hgljx9/media/?size=m
+photo.21.author: framereim
+photo.21.link: https://www.instagram.com/framereim/
+photo.21.tags: bamboo, climb, home
+photo.22: https://www.instagram.com/p/BsnmcsblWVs/media/?size=m
+photo.22.author: sakikukeco
+photo.22.link: https://www.instagram.com/sakikukeco/
+photo.22.tags: portrait, standing
+photo.23: https://www.instagram.com/p/BuL_4oeFmHz/media/?size=m
+photo.23.author: yakko____
+photo.23.link: https://www.instagram.com/yakko____/
+photo.23.tags: home, portrait, smile
+photo.24: https://www.instagram.com/p/BuOStNUFAnX/media/?size=m
+photo.24.author: makimaru18
+photo.24.link: https://www.instagram.com/makimaru18/
+photo.24.tags: portrait, standing
+photo.25: https://www.instagram.com/p/BxjzbT7l1si/media/?size=m
+photo.25.author: framereim
+photo.25.link: https://www.instagram.com/framereim/
+photo.25.tags: climb, paws, portrait
+photo.26: https://www.instagram.com/p/Bxr-xRYFUKf/media/?size=m
+photo.26.author: sakikukeco
+photo.26.link: https://www.instagram.com/sakikukeco/
+photo.26.tags: portrait
+photo.27: https://www.instagram.com/p/Bx0uPs2FTwl/media/?size=m
+photo.27.author: framereim
+photo.27.link: https://www.instagram.com/framereim/
+photo.27.tags: apple time, portrait
+photo.28: https://www.instagram.com/p/ByAVKAOBhlU/media/?size=m
+photo.28.author: sakikukeco
+photo.28.link: https://www.instagram.com/sakikukeco/
+photo.28.tags: paws, portrait
+photo.29: https://www.instagram.com/p/Bz8KbJVhQW7/media/?size=m
+photo.29.author: bubbles_octi
+photo.29.link: https://www.instagram.com/bubbles_octi/
+photo.29.tags: bridge, paws, portrait, tail
+photo.30: https://www.instagram.com/p/Bz-qacyg6mM/media/?size=m
+photo.30.author: nakacchi_desu
+photo.30.link: https://www.instagram.com/nakacchi_desu/
+photo.30.tags: apple time, flowers, toys
+photo.31: https://www.instagram.com/p/B0kHrSanGfk/media/?size=m
+photo.31.author: framereim
+photo.31.link: https://www.instagram.com/framereim/
+photo.31.tags: apple time, peek, portrait
+photo.32: https://www.instagram.com/p/B1K0WuUhy6z/media/?size=m
+photo.32.author: pantasanzoo1
+photo.32.link: https://www.instagram.com/pantasanzoo1/
+photo.32.tags: flowers
+photo.33: https://www.instagram.com/p/B1jM-0AhaU7/media/?size=m
+photo.33.author: redpanda_nippon_takashi
+photo.33.link: https://www.instagram.com/redpanda_nippon_takashi/
+photo.33.tags: apple time, birthday, tail
+photo.34: https://www.instagram.com/p/B1khXUABmX-/media/?size=m
+photo.34.author: tomo3700
+photo.34.link: https://www.instagram.com/tomo3700/
+photo.34.tags: apple time, birthday, long-tongue, portrait, tongue
+photo.35: https://www.instagram.com/p/B2t0f8MhFL_/media/?size=m
+photo.35.author: framereim
+photo.35.link: https://www.instagram.com/framereim/
+photo.35.tags: climb
+photo.36: https://www.instagram.com/p/B1K1ph1HUfs/media/?size=m
+photo.36.author: mochan8686
+photo.36.link: https://www.instagram.com/mochan8686/
+photo.36.tags: portrait, profile
+photo.37: https://www.instagram.com/p/B2ypOEFBF1d/media/?size=m
+photo.37.author: framereim
+photo.37.link: https://www.instagram.com/framereim/
+photo.37.tags: portrait
+photo.38: https://www.instagram.com/p/B20axZwhQIM/media/?size=m
+photo.38.author: makimaru18
+photo.38.link: https://www.instagram.com/makimaru18/
+photo.38.tags: apple time, paws, portrait, standing
+photo.39: https://www.instagram.com/p/B3MfPb2BHr8/media/?size=m
+photo.39.author: sakikukeco
+photo.39.link: https://www.instagram.com/sakikukeco/
+photo.39.tags: apple time, bamboo, paws, peek, portrait
+photo.40: https://www.instagram.com/p/B3b605xns42/media/?size=m
+photo.40.author: framereim
+photo.40.link: https://www.instagram.com/framereim/
+photo.40.tags: paws, portrait, standing, toys
+photo.41: https://www.instagram.com/p/B3zR9PuhzPb/media/?size=m
+photo.41.author: makimaru18
+photo.41.link: https://www.instagram.com/makimaru18/
+photo.41.tags: paws, standing, toys
+photo.42: https://www.instagram.com/p/B31qOgeB7PZ/media/?size=m
+photo.42.author: yossi929
+photo.42.link: https://www.instagram.com/yossi929/
+photo.42.tags: apple time, paws, portrait, toys
+photo.43: https://www.instagram.com/p/B2sZU2QB8CK/media/?size=m
+photo.43.author: chankunvv
+photo.43.link: https://www.instagram.com/chankunvv/
+photo.43.tags: mofumofu, paws, portrait
+species: 2
+zoo: 50

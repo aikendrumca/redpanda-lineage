@@ -1,0 +1,97 @@
+[panda]
+_id: 186
+birthday: 2009/6/19
+birthplace: 10
+children: 188, 189, 261, 262, 263
+en.name: Gigi
+en.nicknames: none
+en.othernames: Jiji
+gender: m
+jp.name: ジジ
+jp.nicknames: none
+jp.othernames: none
+language.order: jp, en
+litter: 86, 87
+location.1: 10, 2009/6/19
+location.2: 53, 2011/11/26
+photo.1: https://www.instagram.com/p/BjjM1XKHwjT/media/?size=m
+photo.1.author: sp879408
+photo.1.link: https://www.instagram.com/sp879408/
+photo.2: https://www.instagram.com/p/Bkknn0GlBKH/media/?size=m
+photo.2.author: fetorus_mami
+photo.2.link: https://www.instagram.com/fetorus_mami/
+photo.2.tags: bamboo
+photo.3: https://www.instagram.com/p/Bk6KJUEFqSl/media/?size=m
+photo.3.author: rie_panda55
+photo.3.link: https://www.instagram.com/rie_panda55/
+photo.3.tags: portrait, smile
+photo.4: https://www.instagram.com/p/Bh0i0tIFSDL/media/?size=m
+photo.4.author: nasu_animal_kingdom
+photo.4.link: https://www.instagram.com/nasu_animal_kingdom/
+photo.4.tags: tail, yawn
+photo.5: https://www.instagram.com/p/Bil6oqBFDZ2/media/?size=m
+photo.5.author: daniele.tokyo
+photo.5.link: https://www.instagram.com/daniele.tokyo/
+photo.5.tags: tail
+photo.6: https://www.instagram.com/p/BougyHfF1PE/media/?size=m
+photo.6.author: kipekaila
+photo.6.link: https://www.instagram.com/kipekaila/
+photo.6.tags: profile
+photo.7: https://www.instagram.com/p/BpWqXEIlNxM/media/?size=m
+photo.7.author: fetorus_mami
+photo.7.link: https://www.instagram.com/fetorus_mami/
+photo.7.tags: tongue
+photo.8: https://www.instagram.com/p/BqpT78EnjX0/media/?size=m
+photo.8.author: yakko____
+photo.8.link: https://www.instagram.com/yakko____/
+photo.8.tags: portrait
+photo.9: https://www.instagram.com/p/BX7lbtVF7h5/media/?size=m
+photo.9.author: hanamaru_redpanda
+photo.9.link: https://www.instagram.com/hanamaru_redpanda/
+photo.9.tags: portrait, sleeping
+photo.10: https://www.instagram.com/p/BxMD9xdlinE/media/?size=m
+photo.10.author: re_ichimaru
+photo.10.link: https://www.instagram.com/re_ichimaru/
+photo.10.tags: itchy, techitechi
+photo.11: https://www.instagram.com/p/By3qLkMlRUH/media/?size=m
+photo.11.author: yakkooo24
+photo.11.link: https://www.instagram.com/yakkooo24/
+photo.11.tags: bridge, laying down, portrait
+photo.12: https://www.instagram.com/p/BzsxTwdBBFv/media/?size=m
+photo.12.author: craig_craig_craig
+photo.12.link: https://www.instagram.com/craig_craig_craig/
+photo.12.tags: portrait, white face
+photo.13: https://www.instagram.com/p/Bz9Q-e-BFqM/media/?size=m
+photo.13.author: grskus_tk
+photo.13.link: https://www.instagram.com/grskus_tk/
+photo.13.tags: portrait, white face
+photo.14: https://www.instagram.com/p/B0ICGOph-_E/media/?size=m
+photo.14.author: ifumoto88
+photo.14.link: https://www.instagram.com/ifumoto88/
+photo.14.tags: laying down
+photo.15: https://www.instagram.com/p/B0KkVR_BpZL/media/?size=m
+photo.15.author: panda.daisuki
+photo.15.link: https://www.instagram.com/panda.daisuki/
+photo.15.tags: laying down, portrait
+photo.16: https://www.instagram.com/p/B0ef3fhh0jk/media/?size=m
+photo.16.author: craig_craig_craig
+photo.16.link: https://www.instagram.com/craig_craig_craig/
+photo.16.tags: bamboo, bite, portrait
+photo.17: https://www.instagram.com/p/B12avrKB5iU/media/?size=m
+photo.17.author: panda.daisuki
+photo.17.link: https://www.instagram.com/panda.daisuki/
+photo.17.tags: portrait, smile
+photo.18: https://www.instagram.com/p/B2P_ZqnhIVG/media/?size=m
+photo.18.author: panda.daisuki
+photo.18.link: https://www.instagram.com/panda.daisuki/
+photo.18.tags: portrait, smile
+photo.19: https://www.instagram.com/p/B3gg1LehI_l/media/?size=m
+photo.19.author: panda.daisuki
+photo.19.link: https://www.instagram.com/panda.daisuki/
+photo.19.tags: portrait, white face
+photo.20: https://www.instagram.com/p/BKTW8uMA1t8/media/?size=m
+photo.20.author: rnrirhrh
+photo.20.link: https://www.instagram.com/rnrirhrh/
+photo.20.tags: paws, portrait
+species: 2
+zoo: 53

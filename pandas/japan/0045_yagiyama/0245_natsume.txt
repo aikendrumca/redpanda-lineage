@@ -1,0 +1,148 @@
+[panda]
+_id: 245
+birthday: 2018/6/27
+birthplace: 45
+children: none
+en.name: Natsume
+en.nicknames: none
+en.othernames: 
+gender: f
+jp.name: ナツメ
+jp.nicknames: none
+jp.othernames: none
+language.order: jp, en
+litter: 244
+photo.1: https://www.instagram.com/p/BpgLKu_F4bi/media/?size=m
+photo.1.author: na.mo.pan
+photo.1.link: https://www.instagram.com/na.mo.pan/
+photo.1.tags: baby, portrait, tree
+photo.2: https://www.instagram.com/p/BpZSEwSlfOt/media/?size=m
+photo.2.author: fetorus_mami
+photo.2.link: https://www.instagram.com/fetorus_mami/
+photo.2.tags: baby, bridge
+photo.3: https://www.instagram.com/p/Bp__GmylwQK/media/?size=m
+photo.3.author: panda.daisuki
+photo.3.link: https://www.instagram.com/panda.daisuki/
+photo.3.tags: autumn, baby, portrait, smile
+photo.4: https://www.instagram.com/p/BqMuzlUlstR/media/?size=m
+photo.4.author: panda.daisuki
+photo.4.link: https://www.instagram.com/panda.daisuki/
+photo.4.tags: baby, portrait, tree
+photo.5: https://www.instagram.com/p/BqTy-oFlaEU/media/?size=m
+photo.5.author: panda.daisuki
+photo.5.link: https://www.instagram.com/panda.daisuki/
+photo.5.tags: autumn, baby, bamboo, portrait
+photo.6: https://www.instagram.com/p/BrfUHL7htTt/media/?size=m
+photo.6.author: take_421
+photo.6.link: https://www.instagram.com/take_421/
+photo.6.tags: portrait, smile, tongue, tree
+photo.7: https://www.instagram.com/p/BtN9EdulHVd/media/?size=m
+photo.7.author: motohin
+photo.7.link: https://www.instagram.com/motohin/
+photo.7.tags: portrait, snow, tongue, tree
+photo.8: https://www.instagram.com/p/Bt51VUJFiNu/media/?size=m
+photo.8.author: ifumoto88
+photo.8.link: https://www.instagram.com/ifumoto88/
+photo.8.tags: mofumofu, portrait, techitechi, white face
+photo.9: https://www.instagram.com/p/BuBpLAUFYfL/media/?size=m
+photo.9.author: fetorus_mami
+photo.9.link: https://www.instagram.com/fetorus_mami/
+photo.9.tags: smile
+photo.10: https://www.instagram.com/p/BuBo_YpF--_/media/?size=m
+photo.10.author: fetorus_mami
+photo.10.link: https://www.instagram.com/fetorus_mami/
+photo.10.tags: home
+photo.11: https://www.instagram.com/p/BtLy7pXFu-w/media/?size=m
+photo.11.author: happy_love2.15
+photo.11.link: https://www.instagram.com/happy_love2.15/
+photo.11.tags: smile, snow, tongue
+photo.12: https://www.instagram.com/p/BwxC7I_lWOd/media/?size=m
+photo.12.author: happy_love2.15
+photo.12.link: https://www.instagram.com/happy_love2.15/
+photo.12.tags: paws, portrait, tree
+photo.13: https://www.instagram.com/p/Bw9mfiPlDC7/media/?size=m
+photo.13.author: resapan.suki
+photo.13.link: https://www.instagram.com/resapan.suki/
+photo.13.tags: home, portrait, smile, tongue
+photo.14: https://www.instagram.com/p/BxMtSwhlZDL/media/?size=m
+photo.14.author: tama67photo
+photo.14.link: https://www.instagram.com/tama67photo/
+photo.14.tags: portrait
+photo.15: https://www.instagram.com/p/Bx1aAcSlakR/media/?size=m
+photo.15.author: kotata_513
+photo.15.link: https://www.instagram.com/kotata_513/
+photo.15.tags: home, smile, tail, tongue
+photo.16: https://www.instagram.com/p/ByANS0ABdBJ/media/?size=m
+photo.16.author: tama67photo
+photo.16.link: https://www.instagram.com/tama67photo/
+photo.16.tags: bridge, paws, portrait, smile, tongue
+photo.17: https://www.instagram.com/p/ByC5JGthKmb/media/?size=m
+photo.17.author: tama67photo
+photo.17.link: https://www.instagram.com/tama67photo/
+photo.17.tags: paws, portrait, smile, tongue
+photo.18: https://www.instagram.com/p/ByFS8_gB06D/media/?size=m
+photo.18.author: tama67photo
+photo.18.link: https://www.instagram.com/tama67photo/
+photo.18.tags: standing, tongue, tree
+photo.19: https://www.instagram.com/p/ByMSZBCBz8Y/media/?size=m
+photo.19.author: kotume4935
+photo.19.link: https://www.instagram.com/kotume4935/
+photo.19.tags: home, smile, tongue
+photo.20: https://www.instagram.com/p/ByMO8BrhlUR/media/?size=m
+photo.20.author: fetorus_mami
+photo.20.link: https://www.instagram.com/fetorus_mami/
+photo.20.tags: mofumofu
+photo.21: https://www.instagram.com/p/ByXXmr0hLwa/media/?size=m
+photo.21.author: tama67photo
+photo.21.link: https://www.instagram.com/tama67photo/
+photo.21.tags: mofumofu, portrait, white face
+photo.22: https://www.instagram.com/p/B0Iy6PYBzu2/media/?size=m
+photo.22.author: happy_love2.15
+photo.22.link: https://www.instagram.com/happy_love2.15/
+photo.22.tags: portrait, profile, tail, white face
+photo.23: https://www.instagram.com/p/B0LdvG5BhTO/media/?size=m
+photo.23.author: happy_love2.15
+photo.23.link: https://www.instagram.com/happy_love2.15/
+photo.23.tags: portrait, smile, tongue, white face
+photo.24: https://www.instagram.com/p/B0sytU5h8Hu/media/?size=m
+photo.24.author: craig_craig_craig
+photo.24.link: https://www.instagram.com/craig_craig_craig/
+photo.24.tags: home, laying down, paws
+photo.25: https://www.instagram.com/p/B1V83yyBZ23/media/?size=m
+photo.25.author: ssc6105
+photo.25.link: https://www.instagram.com/ssc6105/
+photo.25.tags: laying down, smile, tail, tree
+photo.26: https://www.instagram.com/p/B1bQZCaBRis/media/?size=m
+photo.26.author: mariten1119
+photo.26.link: https://www.instagram.com/mariten1119/
+photo.26.tags: home, laying down
+photo.27: https://www.instagram.com/p/B1dfGYEhang/media/?size=m
+photo.27.author: ssc6105
+photo.27.link: https://www.instagram.com/ssc6105/
+photo.27.tags: portrait, smile, tongue
+photo.28: https://www.instagram.com/p/B1pNuumBai2/media/?size=m
+photo.28.author: ssc6105
+photo.28.link: https://www.instagram.com/ssc6105/
+photo.28.tags: home, smile
+photo.29: https://www.instagram.com/p/B14s077BLJV/media/?size=m
+photo.29.author: sasapan34
+photo.29.link: https://www.instagram.com/sasapan34/
+photo.29.tags: home, smile
+photo.30: https://www.instagram.com/p/B19L6Hzh_J9/media/?size=m
+photo.30.author: minatomirai215
+photo.30.link: https://www.instagram.com/minatomirai215/
+photo.30.tags: home, laying down, paws, portrait, white face
+photo.31: https://www.instagram.com/p/B1_FPW0BbiI/media/?size=m
+photo.31.author: ssc6105
+photo.31.link: https://www.instagram.com/ssc6105/
+photo.31.tags: paws, portrait, smile
+photo.32: https://www.instagram.com/p/B2RBwfFBy0w/media/?size=m
+photo.32.author: ssc6105
+photo.32.link: https://www.instagram.com/ssc6105/
+photo.32.tags: laying down, tongue, tree
+photo.33: https://www.instagram.com/p/B2nkBQRhL9z/media/?size=m
+photo.33.author: hamiiiii831
+photo.33.link: https://www.instagram.com/hamiiiii831/
+photo.33.tags: bamboo, home, laying down, portrait
+species: 2
+zoo: 45

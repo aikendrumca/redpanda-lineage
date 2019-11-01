@@ -1,0 +1,18 @@
+[panda]
+_id: 914
+birthday: 2014/6/23
+birthplace: 108
+children: none
+en.name: Oliver
+en.nicknames: none
+en.othernames: none
+gender: m
+jp.name: ランディ
+jp.nicknames: none
+jp.othernames: none
+language.order: en, jp
+litter: 558
+location.1: 108, 2014/6/23
+location.2: 115, 2016/3/8
+species: 1
+zoo: 119

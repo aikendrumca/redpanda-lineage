@@ -1,0 +1,34 @@
+[panda]
+_id: 981
+birthday: 2012/12/24
+birthplace: 203
+children: 699, 982, 983, 984
+en.name: Pabu
+en.nicknames: none
+en.othernames: none
+gender: m
+jp.name: パブ
+jp.nicknames: none
+jp.othernames: none
+language.order: en, jp
+litter: none
+location.1: 203, 2012/12/24
+location.2: 181, 2016/3/30
+photo.1: https://www.instagram.com/p/XGw20dHs8Z/media/?size=m
+photo.1.author: zooborns
+photo.1.link: https://www.instagram.com/zooborns/
+photo.1.tags: baby
+photo.2: https://www.instagram.com/p/BFCwK7llhTc/media/?size=m
+photo.2.author: symbiowildlifepark
+photo.2.link: https://www.instagram.com/symbiowildlifepark/
+photo.2.tags: portrait, profile
+photo.3: https://www.instagram.com/p/0MhM1ulhaY/media/?size=m
+photo.3.author: symbiowildlifepark
+photo.3.link: https://www.instagram.com/symbiowildlifepark/
+photo.3.tags: climb, portrait, tail
+photo.4: https://www.instagram.com/p/2VrdC9lhdi/media/?size=m
+photo.4.author: symbiowildlifepark
+photo.4.link: https://www.instagram.com/symbiowildlifepark/
+photo.4.tags: portrait, paws
+species: 1
+zoo: 181

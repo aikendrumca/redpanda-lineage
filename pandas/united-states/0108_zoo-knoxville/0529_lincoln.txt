@@ -1,0 +1,30 @@
+[panda]
+_id: 529
+birthday: 2013/7/26
+birthplace: 80
+children: none
+en.name: Lincoln
+en.nicknames: none
+en.othernames: none
+gender: m
+jp.name: リンカーン
+jp.nicknames: none
+jp.othernames: none
+language.order: en, jp
+litter: none
+location.1: 80, 2013/7/26
+location.2: 108, 2014/1/24
+photo.1: https://www.instagram.com/p/BuTrVTPH6-p/media/?size=m
+photo.1.author: zooknoxville
+photo.1.link: https://www.instagram.com/zooknoxville/
+photo.1.tags: laying down, profile, tail
+photo.2: https://www.instagram.com/p/BzViUvBlarb/media/?size=m
+photo.2.author: lincolnchildrenszoo
+photo.2.link: https://www.instagram.com/lincolnchildrenszoo/
+photo.2.tags: laying down, paws, white face
+photo.3: https://www.instagram.com/p/B0vqJSsBEBZ/media/?size=m
+photo.3.author: worldthathesees
+photo.3.link: https://www.instagram.com/worldthathesees/
+photo.3.tags: laying down, tail
+species: 1
+zoo: 108

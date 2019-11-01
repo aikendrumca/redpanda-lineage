@@ -1,0 +1,58 @@
+[panda]
+_id: 469
+birthday: 2015/7/1
+birthplace: 84
+children: 488, 489
+en.name: Mei-Mei
+en.nicknames: none
+en.othernames: Meimei
+gender: f
+jp.name: メイメイ
+jp.nicknames: none
+jp.othernames: none
+language.order: en, jp
+litter: 470
+location.1: 84, 2015/7/1
+location.2: 90, 2016/5/27
+location.3: 191, 2019/5/10
+photo.1: https://www.instagram.com/p/BksR3_snL3y/media/?size=m
+photo.1.author: nashvillezoo
+photo.1.link: https://www.instagram.com/nashvillezoo/
+photo.1.tags: bamboo
+photo.2: https://www.instagram.com/p/BY8vrsBDHJo/media/?size=m
+photo.2.author: nashvillezoo
+photo.2.link: https://www.instagram.com/nashvillezoo/
+photo.3: https://www.instagram.com/p/BnwQ9lKB6g1/media/?size=m
+photo.3.author: theartistamanda
+photo.3.link: https://www.instagram.com/theartistamanda/
+photo.3.tags: bamboo, smile
+photo.4: https://www.instagram.com/p/_mOTHFiBEg/media/?size=m
+photo.4.author: mickmicknyc
+photo.4.link: https://www.instagram.com/mickmicknyc/
+photo.4.tags: profile
+photo.5: https://www.instagram.com/p/BDdN6rStG4B/media/?size=m
+photo.5.author: mariten1119
+photo.5.link: https://www.instagram.com/mariten1119/
+photo.5.tags: mofumofu, tail
+photo.6: https://www.instagram.com/p/BxSiC2Fjfxg/media/?size=m
+photo.6.author: oregonzoo
+photo.6.link: https://www.instagram.com/oregonzoo/
+photo.6.tags: smile
+photo.7: https://www.instagram.com/p/By8zBVunGRV/media/?size=m
+photo.7.author: oregonzoo
+photo.7.link: https://www.instagram.com/oregonzoo/
+photo.7.tags: apple time, portrait
+photo.8: https://www.instagram.com/p/BzYaUqNnVv8/media/?size=m
+photo.8.author: oregonzoo
+photo.8.link: https://www.instagram.com/oregonzoo/
+photo.8.tags: keeper, portrait
+photo.9: https://www.instagram.com/p/B0CRRPQnEMI/media/?size=m
+photo.9.author: oregonzoo
+photo.9.link: https://www.instagram.com/oregonzoo/
+photo.9.tags: home, lunch time, portrait
+photo.10: https://www.instagram.com/p/B1bukzFn4L0/media/?size=m
+photo.10.author: oregonzoo
+photo.10.link: https://www.instagram.com/oregonzoo/
+photo.10.tags: tongue
+species: 2
+zoo: 191

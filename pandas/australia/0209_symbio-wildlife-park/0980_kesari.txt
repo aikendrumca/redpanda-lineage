@@ -1,0 +1,22 @@
+[panda]
+_id: 980
+birthday: 2014/1/3
+birthplace: 203
+children: unknown
+en.name: Kesari
+en.nicknames: none
+en.othernames: none
+gender: m
+jp.name: ケサリ
+jp.nicknames: none
+jp.othernames: none
+language.order: en, jp
+litter: 979
+location.1: 203, 2014/1/3
+location.2: 209, 2016/3/30
+photo.1: https://www.instagram.com/p/BKOy9RwAaa6/media/?size=m
+photo.1.author: symbiowildlifepark
+photo.1.link: https://www.instagram.com/symbiowildlifepark/
+photo.1.tags: portrait, profile
+species: 1
+zoo: 209

@@ -1,0 +1,56 @@
+[panda]
+_id: 955
+birthday: 2019/7/12
+birthplace: 13
+children: none
+en.name: Aka-chan
+en.nicknames: none
+en.othernames: none
+gender: f
+jp.name: 赤ちゃん
+jp.nicknames: none
+jp.othernames: none
+language.order: jp, en
+litter: 956
+photo.1: https://www.instagram.com/p/B3f869cha-6/media/?size=m
+photo.1.author: yakko____
+photo.1.link: https://www.instagram.com/yakko____/
+photo.1.tags: baby, bamboo, portrait, profile
+photo.2: https://www.instagram.com/p/B35pvkNh036/media/?size=m
+photo.2.author: tomo3700
+photo.2.link: https://www.instagram.com/tomo3700/
+photo.2.tags: baby, climb, paws, portrait
+photo.3: https://www.instagram.com/p/B36Jw6xhWyU/media/?size=m
+photo.3.author: kisshan324
+photo.3.link: https://www.instagram.com/kisshan324/
+photo.3.tags: baby, bamboo, portrait, smile
+photo.4: https://www.instagram.com/p/B39Ri0wBI1u/media/?size=m
+photo.4.author: daniele.tokyo
+photo.4.link: https://www.instagram.com/daniele.tokyo/
+photo.4.tags: baby, laying down, paws, portrait, tail, upside-down
+photo.5: https://www.instagram.com/p/B4CbIyehFb9/media/?size=m
+photo.5.author: daniele.tokyo
+photo.5.link: https://www.instagram.com/daniele.tokyo/
+photo.5.tags: baby, bamboo, portrait, white face
+photo.6: https://www.instagram.com/p/B4GG9M5BkEh/media/?size=m
+photo.6.author: redpanda_nippon_takashi
+photo.6.link: https://www.instagram.com/redpanda_nippon_takashi/
+photo.6.tags: baby, climb, paws
+photo.7: https://www.instagram.com/p/B4JAlMtBl3B/media/?size=m
+photo.7.author: tetusara.ki_
+photo.7.link: https://www.instagram.com/tetusara.ki_/
+photo.7.tags: baby, paws, portrait
+photo.8: https://www.instagram.com/p/B4J6UVkhPsF/media/?size=m
+photo.8.author: tetusara.ki_
+photo.8.link: https://www.instagram.com/tetusara.ki_/
+photo.8.tags: baby, portrait
+photo.9: https://www.instagram.com/p/B4MezAYBkFc/media/?size=m
+photo.9.author: tetusara.ki_
+photo.9.link: https://www.instagram.com/tetusara.ki_/
+photo.9.tags: baby, portrait, white face
+photo.10: https://www.instagram.com/p/B4O3XboHY-V/media/?size=m
+photo.10.author: tetusara.ki_
+photo.10.link: https://www.instagram.com/tetusara.ki_/
+photo.10.tags: baby, bamboo, portrait, white face
+species: 2
+zoo: 13

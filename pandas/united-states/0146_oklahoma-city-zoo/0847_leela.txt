@@ -1,0 +1,23 @@
+[panda]
+_id: 847
+birthday: 2014/6/26
+birthplace: 129
+children: 877, 878
+en.name: Leela
+en.nicknames: none
+en.othernames: none
+gender: f
+jp.name: リーラ
+jp.nicknames: none
+jp.othernames: none
+language.order: en, jp
+litter: 553
+location.1: 129, 2014/6/26
+location.2: 130, 2015/5/15
+location.3: 146, 2018/1/30
+photo.1: https://www.instagram.com/p/BwP9mb2lGng/media/?size=m
+photo.1.author: okczoo
+photo.1.link: https://www.instagram.com/okczoo/
+photo.1.tags: bite
+species: 1
+zoo: 146

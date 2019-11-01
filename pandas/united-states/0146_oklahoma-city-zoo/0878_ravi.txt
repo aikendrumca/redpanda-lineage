@@ -1,0 +1,20 @@
+[panda]
+_id: 878
+birthday: 2019/6/2
+birthplace: 146
+children: none
+en.name: Ravi
+en.nicknames: none
+en.othernames: none
+gender: m
+jp.name: ラビ
+jp.nicknames: none
+jp.othernames: none
+language.order: en, jp
+litter: 877
+photo.1: https://www.instagram.com/p/B2_59HAHkJ2/media/?size=m
+photo.1.author: okczoo
+photo.1.link: https://www.instagram.com/okczoo/
+photo.1.tags: baby, profile
+species: 1
+zoo: 146

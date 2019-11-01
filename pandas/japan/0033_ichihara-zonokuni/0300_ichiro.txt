@@ -1,0 +1,61 @@
+[panda]
+_id: 300
+birthday: 2014/7/6
+birthplace: 33
+children: none
+en.name: Ichiro
+en.nicknames: none
+en.othernames: none
+gender: m
+jp.name: 一路
+jp.nicknames: none
+jp.othernames: イチロウ
+language.order: jp, en
+litter: 587
+photo.1: https://www.instagram.com/p/BoTsPNuFeVX/media/?size=m
+photo.1.author: fetorus_mami
+photo.1.link: https://www.instagram.com/fetorus_mami/
+photo.2: https://www.instagram.com/p/BoWTu4zF8cJ/media/?size=m
+photo.2.author: fetorus_mami
+photo.2.link: https://www.instagram.com/fetorus_mami/
+photo.2.tags: profile
+photo.3: https://www.instagram.com/p/BpGAC8rlSFb/media/?size=m
+photo.3.author: fetorus_mami
+photo.3.link: https://www.instagram.com/fetorus_mami/
+photo.3.tags: tail
+photo.4: https://www.instagram.com/p/BpGAMbNFuv3/media/?size=m
+photo.4.author: fetorus_mami
+photo.4.link: https://www.instagram.com/fetorus_mami/
+photo.5: https://www.instagram.com/p/BYQcTfOFfFO/media/?size=m
+photo.5.author: hanamaru_redpanda
+photo.5.link: https://www.instagram.com/hanamaru_redpanda/
+photo.5.tags: smile, tail
+photo.6: https://www.instagram.com/p/BthySMll7Z2/media/?size=m
+photo.6.author: nakayamanoboru6981
+photo.6.link: https://www.instagram.com/nakayamanoboru6981/
+photo.6.tags: tongue
+photo.7: https://www.instagram.com/p/BwmeMvwl46f/media/?size=m
+photo.7.author: craig_craig_craig
+photo.7.link: https://www.instagram.com/craig_craig_craig/
+photo.8: https://www.instagram.com/p/BweVvxAF3zv/media/?size=m
+photo.8.author: craig_craig_craig
+photo.8.link: https://www.instagram.com/craig_craig_craig/
+photo.8.tags: paws
+photo.9: https://www.instagram.com/p/B1_B5apBflH/media/?size=m
+photo.9.author: ssc6105
+photo.9.link: https://www.instagram.com/ssc6105/
+photo.9.tags: air tasting, portrait, tongue
+photo.10: https://www.instagram.com/p/B2GtUmDBhUD/media/?size=m
+photo.10.author: fetorus_mami
+photo.10.link: https://www.instagram.com/fetorus_mami/
+photo.10.tags: paws, smile
+photo.11: https://www.instagram.com/p/B2T9RtJHyw1/media/?size=m
+photo.11.author: fetorus_mami
+photo.11.link: https://www.instagram.com/fetorus_mami/
+photo.11.tags: portrait, smile
+photo.12: https://www.instagram.com/p/B3zJa5RBOd_/media/?size=m
+photo.12.author: ssc6105
+photo.12.link: https://www.instagram.com/ssc6105/
+photo.12.tags: portrait, smile
+species: 2
+zoo: 33
